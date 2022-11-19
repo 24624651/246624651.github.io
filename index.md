@@ -38,9 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ```html
-<script>window.location.href='http://xyz8.top';</script>
+<h1>window.location.href='http://xyz8.top';</h1>
 ```
 
-
-
+> 淘汰技术的只有市场，而不是技术本身。
 
